@@ -1,0 +1,6 @@
+#allCustomers {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-transform: capitalize;
+}
