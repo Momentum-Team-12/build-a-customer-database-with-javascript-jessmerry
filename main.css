@@ -1,6 +1,11 @@
 #allCustomers {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: column;
+    flex-direction: row;
     text-transform: capitalize;
 }
+
+img {
+    border-radius: 50px 80px 50px 80px;
+}
+
